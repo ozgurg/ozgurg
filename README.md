@@ -4,5 +4,5 @@
 - 🤔 I'm looking for help with https://github.com/ozgurg/vergihesaplayici.com
 - 💬 Ask me about ozgurgorgulu54@gmail.com
 - 📫 How to reach me: ozgurgorgulu54@gmail.com
-- ⚡ Fun fact: I love playing games
+- 🎮 Fun fact: I love playing games
 - 👍 I usually hang out here: https://teknoseyir.com/u/ozgurg
