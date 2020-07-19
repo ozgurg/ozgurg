@@ -1,5 +1,5 @@
 - 🔭 I'm currently working on Vue, Node.js
-- 🌱 I'm currently learning something new
+- 🌱 I'm currently learning something new (Especially GitHub)
 - 👯 I'm looking to collaborate on https://github.com/ozgurg/vergihesaplayici.com
 - 🤔 I'm looking for help with https://github.com/ozgurg/vergihesaplayici.com
 - 💬 Ask me about ozgurgorgulu54@gmail.com
