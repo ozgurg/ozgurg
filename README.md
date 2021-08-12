@@ -1,4 +1,4 @@
-- 🔭  I'm currently working on Vue.js & Nuxt.js, Node.js, Kotlin for Android, Unity, Docker and little bit Swift :)
+- 🔭  I'm currently working on Vue.js & Nuxt.js, Node.js, Kotlin for Android, Docker and little bit Swift :)
 - 🎮  Fun fact: I love playing story-based games
 - 👍  I usually hang out here: https://teknoseyir.com/u/ozgurg (Turkish)
 - I created [Double Tap To Lock](https://dttl.page.link/store) and it is passed 1.08M downloads
