@@ -1,6 +1,6 @@
-- 🔭  I'm currently working on Vue.js & Nuxt.js, Node.js, Kotlin for Android, Docker and little bit Swift :)
+- 🔭  I'm currently working on Vue.js & Nuxt.js, Node.js, TypeScript Kotlin for Android, Docker :)
 - 🎮  Fun fact: I love playing story-based games
 - 👍  I usually hang out here: https://teknoseyir.com/u/ozgurg (Turkish)
-- I created [Double Tap To Lock](https://dttl.page.link/store) and it is passed 1.19M downloads
-- I created [Rebootify](https://rebootify.page.link/store) and it is nearly 34.9K downloaded
-- I created [InstaDownloader](https://instadownloader.page.link/store) and it is passed 11.9K downloads
+- I created [Double Tap To Lock](https://dttl.page.link/store) and it is passed 1.2M downloads
+- I created [Rebootify](https://rebootify.page.link/store) and it is nearlypassed 35.1K downloaded
+- I created [InstaDownloader](https://instadownloader.page.link/store) and it is passed 12K downloads
