@@ -6,6 +6,7 @@
 
 
 **My notable projects**
-- [Double Tap To Lock](https://dttl.page.link/store) and it's passed 1.3M downloads
+- [Double Tap To Lock](https://dttl.page.link/store) and it's passed 1.36M downloads
 - [Rebootify](https://rebootify.page.link/store) and it's passed 40K downloads
+- [Currenlytics](https://currencylogger.page.link/store) and it's passed 145 (😊) downloads
 - [vergihesaplayici.com](https://vergihesaplayici.com/) and it's [open source](https://github.com/ozgurg/vergihesaplayici.com)
