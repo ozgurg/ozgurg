@@ -4,7 +4,7 @@
 
 
 **My notable projects:**
-- [Double Tap To Lock](https://dttl.page.link/store) – Over 1.42M downloads
-- [Rebootify](https://rebootify.page.link/store) – Over 44K downloads
-- [Currenlytics](https://currencylogger.page.link/store) – 163 downloads (😊)
+- [Double Tap To Lock](https://dttl.page.link/store) – Over 1.5M downloads
+- [Rebootify](https://rebootify.page.link/store) – Over 42K downloads
+- [Currenlytics](https://currencylogger.page.link/store) – 182 downloads (😊)
 - [vergihesaplayici.com](https://vergihesaplayici.com/) – [Open source](https://github.com/ozgurg/vergihesaplayici.com)
